@@ -26,3 +26,31 @@ innovative measures for sustainable living. They have rainwater harvesting syste
 the rainwater and instead of allowing it to run off to the local riverine system, it is fed to the local
 aquifer thereby reducing the depletion of ground water resources.
 ______________________
+RoU Issue Date: 14/08/2024
+
+Total Qty: 7625
+_______
+Serial Number: 0001-000001-001969-UCR-RoU-IN-422-01042020-31122020
+
+Vintage Year: 2020
+
+Quantity: 1969
+___________
+Serial Number: 0001-001970-004189-UCR-RoU-IN-422-01012021-31122021
+
+Vintage Year: 2021
+
+Quantity: 2220
+_____________
+Serial Number: 0001-004190-006069-UCR-RoU-IN-422-01012022-31122022
+
+Vintage Year: 2022
+
+Quantity: 1880
+_____________
+Serial Number: 0001-006070-007625-UCR-RoU-IN-422-01012023-31122023
+
+Vintage Year: 2023
+
+Quantity: 1556
+_____________
